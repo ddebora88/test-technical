@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tanah Disewa</name>
+   <tag></tag>
+   <elementGuidId>c6177c6d-0baf-41d5-ace1-36a4f7d081c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;tanah disewa&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/div[2]/div/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f6aaea8-edcb-4327-abe3-a253fec63dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.99.co/id/sewa/tanah</value>
+      <webElementGuid>2c56675e-937e-4033-a2b0-6952826d5bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>tanah disewa</value>
+      <webElementGuid>4736052a-c350-430e-acc9-4d72d96aeb19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanah Disewa</value>
+      <webElementGuid>072b88a8-7031-42c7-a475-c9b60a82d0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;upperFooter&quot;]/div[@class=&quot;upperFooter__container&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-content showContent&quot;]/a[4]</value>
+      <webElementGuid>fcd3a511-4c1a-4669-80de-5cc6faf71f34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div[2]/div/a[4]</value>
+      <webElementGuid>aaffada9-cae7-46cc-b55b-356b7debb983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tanah Disewa')]</value>
+      <webElementGuid>b08731f0-3192-4cc1-b641-2b9630ce4053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.99.co/id/sewa/tanah')])[2]</value>
+      <webElementGuid>a026aab7-adba-4f0c-af34-7462253a8354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/a[4]</value>
+      <webElementGuid>445126fe-cf36-4fa4-8a11-7d6ced1e665f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.99.co/id/sewa/tanah' and @title = 'tanah disewa' and (text() = 'Tanah Disewa' or . = 'Tanah Disewa')]</value>
+      <webElementGuid>546de52c-239c-4dd8-8703-b827c9204f0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

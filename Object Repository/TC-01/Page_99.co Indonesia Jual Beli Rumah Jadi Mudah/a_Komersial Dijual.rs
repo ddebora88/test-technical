@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Komersial Dijual</name>
+   <tag></tag>
+   <elementGuidId>4fee9709-a6ed-4f96-a0b1-b1403ebe63fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;komersial dijual&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/div/div/a[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f51fbfcb-bc20-4643-8cde-e8c4fc469868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.99.co/id/jual/komersial</value>
+      <webElementGuid>503ae091-0111-46d5-9620-bf579888763d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>komersial dijual</value>
+      <webElementGuid>1910e2c8-e616-4247-b020-b68bb7a642c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Komersial Dijual</value>
+      <webElementGuid>3222df5a-ce8f-4bd2-a24f-af4704b0ce4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;upperFooter&quot;]/div[@class=&quot;upperFooter__container&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-content showContent&quot;]/a[7]</value>
+      <webElementGuid>361916dd-0185-489f-935b-cb4d82f0ee90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div/div/a[7]</value>
+      <webElementGuid>4285fbb1-1040-4187-a52b-023d787199dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Komersial Dijual')])[2]</value>
+      <webElementGuid>7ba8ed33-59c9-48cb-af5a-da99fb9123f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.99.co/id/jual/komersial')])[2]</value>
+      <webElementGuid>f36d7591-2507-4396-a8b0-69924ef00c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a[7]</value>
+      <webElementGuid>7587f725-88d6-4e04-8b28-7c4ede5f5944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.99.co/id/jual/komersial' and @title = 'komersial dijual' and (text() = 'Komersial Dijual' or . = 'Komersial Dijual')]</value>
+      <webElementGuid>793b5190-cf03-4c52-abb6-76affd179281</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

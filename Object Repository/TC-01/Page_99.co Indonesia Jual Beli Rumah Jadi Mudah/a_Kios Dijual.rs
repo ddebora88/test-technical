@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kios Dijual</name>
+   <tag></tag>
+   <elementGuidId>b6eaa2c6-20c9-48aa-9e98-91dc80e35687</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;kios dijual&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/div/div/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>22b88e68-8213-4113-b031-f26bbc278deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.99.co/id/jual/kios</value>
+      <webElementGuid>a30ba181-d471-4b84-a8fe-ffff114e7397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>kios dijual</value>
+      <webElementGuid>1bedcc62-d693-4e59-8b47-6b602d40df32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kios Dijual</value>
+      <webElementGuid>4c1156bd-f370-4810-8c2d-d8361da5e6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;upperFooter&quot;]/div[@class=&quot;upperFooter__container&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-content showContent&quot;]/a[5]</value>
+      <webElementGuid>63f8bc07-11bf-496a-bebb-2a3727e246d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div/div/a[5]</value>
+      <webElementGuid>7e31af80-fb7c-404d-8056-10071d98a82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Kios Dijual')])[2]</value>
+      <webElementGuid>0bddb4e2-8edf-41b5-b716-4ebfe8076f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.99.co/id/jual/kios')])[2]</value>
+      <webElementGuid>76bddc92-2ff9-4a22-8abc-42ac0365d0d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a[5]</value>
+      <webElementGuid>23445a54-ef3a-43bb-8332-9a06b7f5d416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.99.co/id/jual/kios' and @title = 'kios dijual' and (text() = 'Kios Dijual' or . = 'Kios Dijual')]</value>
+      <webElementGuid>f33e0261-699c-4c02-bc4b-f8700e626522</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

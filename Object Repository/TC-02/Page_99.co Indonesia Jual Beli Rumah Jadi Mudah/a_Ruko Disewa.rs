@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ruko Disewa</name>
+   <tag></tag>
+   <elementGuidId>8902f7e8-91da-4446-932e-1e776dde8d6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;ruko disewa&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/div[2]/div/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>31212f84-02e0-418c-91a3-5bd1d410afc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.99.co/id/sewa/ruko</value>
+      <webElementGuid>b2786d8f-55cc-4413-838a-b87821d653f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>ruko disewa</value>
+      <webElementGuid>bea9d207-1c8f-49ef-b741-708eeec00552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ruko Disewa</value>
+      <webElementGuid>209d708f-1cb0-4be8-be99-202a10ed7826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;upperFooter&quot;]/div[@class=&quot;upperFooter__container&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-content showContent&quot;]/a[3]</value>
+      <webElementGuid>dd5e5a96-e823-426c-b906-1bafd5e0790b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div[2]/div/a[3]</value>
+      <webElementGuid>9d934b76-65b7-459a-8dba-28dfb9dbadfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ruko Disewa')]</value>
+      <webElementGuid>977e5c79-3dd2-4a61-8df9-522d88d2235b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.99.co/id/sewa/ruko')])[22]</value>
+      <webElementGuid>dd823775-2f1b-47d5-9ce4-da83c8060145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/a[3]</value>
+      <webElementGuid>90429b1a-b4f1-4b88-a785-f69b41a6aefb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.99.co/id/sewa/ruko' and @title = 'ruko disewa' and (text() = 'Ruko Disewa' or . = 'Ruko Disewa')]</value>
+      <webElementGuid>2da8e04c-c83b-47d1-b1d5-7277df181583</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

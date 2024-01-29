@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ruang Kantor Dijual</name>
+   <tag></tag>
+   <elementGuidId>cc3eec10-8ded-4a27-9c99-ff4a6ba58ca1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;ruang kantor dijual&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/div/div/a[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0cb00e3e-9f87-4efa-9d5d-448df896669c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.99.co/id/jual/ruang-kantor</value>
+      <webElementGuid>039b5f23-58cf-477f-9fa4-63b47b340a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>ruang kantor dijual</value>
+      <webElementGuid>182fab98-2c0d-447a-851d-d79e487b68e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ruang Kantor Dijual</value>
+      <webElementGuid>1e14b944-0e18-4c45-b8b1-330daa04a788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;upperFooter&quot;]/div[@class=&quot;upperFooter__container&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-content showContent&quot;]/a[8]</value>
+      <webElementGuid>83e11ab6-6c15-4d11-8bb9-926a3eab9495</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div/div/a[8]</value>
+      <webElementGuid>a5ab2a7d-cf02-4274-ad48-bb5874f6f35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Ruang Kantor Dijual')])[2]</value>
+      <webElementGuid>b790cd3e-a070-49d1-9cd2-8a653c2d86a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.99.co/id/jual/ruang-kantor')])[2]</value>
+      <webElementGuid>573364a2-6fce-4836-b13a-08ab6eb83977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a[8]</value>
+      <webElementGuid>846bea92-2ba3-43a3-b3e1-60788b6aee16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.99.co/id/jual/ruang-kantor' and @title = 'ruang kantor dijual' and (text() = 'Ruang Kantor Dijual' or . = 'Ruang Kantor Dijual')]</value>
+      <webElementGuid>4d981968-375a-495f-90bc-38dd60249c39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>address_Tamansari Panoramic, Antapani, Bandung</name>
+   <tag></tag>
+   <elementGuidId>61b896cf-831c-4f38-8ddc-65da306372fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>address</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div/div[4]/div/div[2]/div/div/div/address</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>9161363f-345e-4caa-84db-3b881bb9cf70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tamansari Panoramic, Antapani, Bandung</value>
+      <webElementGuid>9147383f-72f4-4826-9fae-470dace84f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;ui-srp&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-main col-12 col-xl-9&quot;]/div[@class=&quot;srpListing&quot;]/div[@class=&quot;cardSecondary&quot;]/div[@class=&quot;cardSecondary__info&quot;]/div[@class=&quot;cardSecondary__info-wrapper&quot;]/div[@class=&quot;cardSecondary__info-wrapper_detail&quot;]/div[@class=&quot;cardSecondary__info-wrapper_detail-basic-content&quot;]/address[1]</value>
+      <webElementGuid>15efa64a-78f4-4838-a573-8f8902f48be6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/div[4]/div/div[2]/div/div/div/address</value>
+      <webElementGuid>77ec6458-144b-467b-aba7-ee547149ba9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//address</value>
+      <webElementGuid>2c29d446-9bda-428f-ba11-db314a15cb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//address[(text() = 'Tamansari Panoramic, Antapani, Bandung' or . = 'Tamansari Panoramic, Antapani, Bandung')]</value>
+      <webElementGuid>7da20347-be4c-4ca7-b6c1-ecf7c1e700a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

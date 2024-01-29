@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RUMAH</name>
+   <tag></tag>
+   <elementGuidId>d81990ad-5bee-46f1-ab25-7cd65d49eef4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div/div[4]/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.badges > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>27efa3c1-4914-49ce-9e3d-6863f6e9f93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RUMAH</value>
+      <webElementGuid>45a76aa3-2524-4a30-8cf5-a801047d73be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;ui-srp&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-main col-12 col-xl-9&quot;]/div[@class=&quot;srpListing&quot;]/div[@class=&quot;cardSecondary&quot;]/div[@class=&quot;cardSecondary__info&quot;]/div[@class=&quot;cardSecondary__info-wrapper&quot;]/div[@class=&quot;cardSecondary__info-wrapper_detail&quot;]/div[@class=&quot;cardSecondary__info-wrapper_detail-basic-content&quot;]/div[@class=&quot;key-points&quot;]/div[@class=&quot;badges&quot;]/div[1]</value>
+      <webElementGuid>084b3fcf-245b-4b0d-83f6-81dd0160f86e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/div[4]/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>c40623c1-dc5d-408a-9c2a-ae45fb090504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>68e51de7-6b74-4c47-bb3b-dc4c3d680242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'RUMAH' or . = 'RUMAH')]</value>
+      <webElementGuid>22b43b0e-48a3-44d5-bdd8-3bcdfb4050a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

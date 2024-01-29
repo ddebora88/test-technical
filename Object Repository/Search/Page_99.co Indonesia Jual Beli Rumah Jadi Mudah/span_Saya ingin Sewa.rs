@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saya ingin Sewa</name>
+   <tag></tag>
+   <elementGuidId>168a210f-a774-4878-8e3c-7c49179795ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/form/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>514de1d7-db05-47f1-9dff-9f650ee3bc3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-atomic-button__text</value>
+      <webElementGuid>9f6ce86b-94ec-4224-8e1f-83ec998ef8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya ingin Sewa</value>
+      <webElementGuid>31bcf22e-2211-4921-a22a-1827be7fda0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;homePage&quot;]/section[@class=&quot;banner&quot;]/form[@class=&quot;searchBarHome&quot;]/div[@class=&quot;searchBarHome--price&quot;]/button[@class=&quot;searchBarHome--price__button ui-atomic-button ui-atomic-button__size-default ui-atomic-button__theme-default&quot;]/span[@class=&quot;ui-atomic-button__text&quot;]</value>
+      <webElementGuid>a4537eab-e2c6-4960-99a3-b5cf2bfa32e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/form/div/button[2]/span</value>
+      <webElementGuid>776adacf-0896-45ca-a7c5-31e62f27e0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>bd53d28c-bf8c-4288-b46d-e3443a742241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Saya ingin Sewa' or . = 'Saya ingin Sewa')]</value>
+      <webElementGuid>6b617dd5-abda-47df-9b8b-0560cd5935a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

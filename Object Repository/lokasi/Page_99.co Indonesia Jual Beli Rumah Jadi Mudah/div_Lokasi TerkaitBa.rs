@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lokasi TerkaitBa</name>
+   <tag></tag>
+   <elementGuidId>badf321f-4d62-4a7c-9c80-00aef531028c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-molecules-search-bar__suggestions</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/form/div[2]/div[2]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81abaf5a-20b0-497d-909c-43d8443b84f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-molecules-search-bar__suggestions</value>
+      <webElementGuid>62120604-6188-45c8-9a75-f6e5c0e46e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lokasi TerkaitBandungKota/Kabupaten Di Jawa Barat, IndonesiaKota/KabupatenBandung BaratKota/Kabupaten Di Jawa Barat, IndonesiaKota/KabupatenSumur BandungKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung WetanKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung KidulKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung KulonKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandungKecamatan Di Serang, Banten, IndonesiaKecamatanBandungKecamatan Di Tulungagung, Jawa Timur, IndonesiaKecamatanBandunganKecamatan Di Semarang, Jawa Tengah, IndonesiaKecamatanIbunKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatan</value>
+      <webElementGuid>141bd5b4-a398-49ee-81b5-f1353a0f11bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;homePage&quot;]/section[@class=&quot;banner&quot;]/form[@class=&quot;searchBarHome&quot;]/div[@class=&quot;searchBarHome--main&quot;]/div[@class=&quot;searchBarHome--main__col&quot;]/div[@class=&quot;ui-molecules-search-bar&quot;]/div[@class=&quot;ui-molecules-search-bar__suggestions&quot;]</value>
+      <webElementGuid>8e75f410-a7ce-433e-ac8b-b22df09c9fcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/form/div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>6788b317-f448-433f-a87b-4b5bdd8d849a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>6f229320-297f-4550-8d18-5a8a6045ad92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lokasi TerkaitBandungKota/Kabupaten Di Jawa Barat, IndonesiaKota/KabupatenBandung BaratKota/Kabupaten Di Jawa Barat, IndonesiaKota/KabupatenSumur BandungKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung WetanKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung KidulKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung KulonKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandungKecamatan Di Serang, Banten, IndonesiaKecamatanBandungKecamatan Di Tulungagung, Jawa Timur, IndonesiaKecamatanBandunganKecamatan Di Semarang, Jawa Tengah, IndonesiaKecamatanIbunKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatan' or . = 'Lokasi TerkaitBandungKota/Kabupaten Di Jawa Barat, IndonesiaKota/KabupatenBandung BaratKota/Kabupaten Di Jawa Barat, IndonesiaKota/KabupatenSumur BandungKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung WetanKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung KidulKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandung KulonKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatanBandungKecamatan Di Serang, Banten, IndonesiaKecamatanBandungKecamatan Di Tulungagung, Jawa Timur, IndonesiaKecamatanBandunganKecamatan Di Semarang, Jawa Tengah, IndonesiaKecamatanIbunKecamatan Di Bandung, Jawa Barat, IndonesiaKecamatan')]</value>
+      <webElementGuid>92e22c8d-7fa1-48b0-977f-14c956de3c40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

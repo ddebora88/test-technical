@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bandung</name>
+   <tag></tag>
+   <elementGuidId>25699ef2-b9af-4ab9-89db-b87bcc8f2c23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/form/div[2]/div[2]/div[2]/div[2]/div/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;&lt;strong>Bandung&lt;/strong>&quot;] > div > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b950fdc3-f5f8-4499-b183-e00d891f85f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bandung</value>
+      <webElementGuid>c345465d-346e-4bd6-a498-1d2d210cddc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;homePage&quot;]/section[@class=&quot;banner&quot;]/form[@class=&quot;searchBarHome&quot;]/div[@class=&quot;searchBarHome--main&quot;]/div[@class=&quot;searchBarHome--main__col&quot;]/div[@class=&quot;ui-molecules-search-bar&quot;]/div[@class=&quot;ui-molecules-search-bar__suggestions&quot;]/div[@class=&quot;ui-molecules-search-bar__suggestions-wrapper&quot;]/a[1]/div[1]/div[1]</value>
+      <webElementGuid>3821a25b-004a-4df9-8907-3990299079f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/form/div[2]/div[2]/div[2]/div[2]/div/a/div/div</value>
+      <webElementGuid>8e32448a-642a-48e3-aa0c-94b6e56a234a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>606339c9-8855-49bb-8893-8ccbef78818c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bandung' or . = 'Bandung')]</value>
+      <webElementGuid>221a2fe9-2239-4633-9468-c4168ce1dbed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

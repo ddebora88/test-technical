@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_rumah</name>
+   <tag></tag>
+   <elementGuidId>7afaed05-5ebc-46db-ae19-3ba151bc6fd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-molecules-select__field-value.has-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/form/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abcac6ce-ab42-4693-ac48-2d2a0ce1bc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-molecules-select__field-value has-value</value>
+      <webElementGuid>662b19a1-6b29-475b-a436-ac66cf84e963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>rumah</value>
+      <webElementGuid>9c52142c-c5cd-4749-988c-6762de0edc4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;homePage&quot;]/section[@class=&quot;banner&quot;]/form[@class=&quot;searchBarHome&quot;]/div[@class=&quot;searchBarHome--main&quot;]/div[@class=&quot;searchBarHome--main__col&quot;]/div[@class=&quot;ui-molecules-select searchBarHome--main__filter_select&quot;]/div[@class=&quot;ui-molecules-select__field-value has-value&quot;]</value>
+      <webElementGuid>2b3790d9-e567-441e-9f59-637d3a0ec6f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/form/div[2]/div/div[2]/div</value>
+      <webElementGuid>96965e08-170f-4ad2-9328-b81343ec499a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div[2]/div</value>
+      <webElementGuid>19c36b5c-043a-46f3-be4a-57dd75205174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'rumah' or . = 'rumah')]</value>
+      <webElementGuid>a392a7fd-65b3-47d2-9c94-29b54e8e0708</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>address_Arcamanik, Bandung</name>
+   <tag></tag>
+   <elementGuidId>6d1e264d-5565-44f8-a377-bd4bd3410a01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div/div[4]/div/div[2]/div/div/div/address</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>address</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>7c07d60b-0718-41ef-9273-f80514533d07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Arcamanik, Bandung</value>
+      <webElementGuid>b83329d2-045d-4ed8-a15f-4290a1a1cbe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;ui-srp&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-main col-12 col-xl-9&quot;]/div[@class=&quot;srpListing&quot;]/div[@class=&quot;cardSecondary&quot;]/div[@class=&quot;cardSecondary__info&quot;]/div[@class=&quot;cardSecondary__info-wrapper&quot;]/div[@class=&quot;cardSecondary__info-wrapper_detail&quot;]/div[@class=&quot;cardSecondary__info-wrapper_detail-basic-content&quot;]/address[1]</value>
+      <webElementGuid>a1cbda6c-c752-441b-b719-3d421c5c6234</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/div[4]/div/div[2]/div/div/div/address</value>
+      <webElementGuid>95faa0c8-0f33-47bc-9fae-6c9a64bf451a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//address</value>
+      <webElementGuid>8c8b3c04-4624-45bf-97a8-69bcca9f1f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//address[(text() = 'Arcamanik, Bandung' or . = 'Arcamanik, Bandung')]</value>
+      <webElementGuid>ddd7f6f5-91fa-411c-aa02-b5a8d6ea3acd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

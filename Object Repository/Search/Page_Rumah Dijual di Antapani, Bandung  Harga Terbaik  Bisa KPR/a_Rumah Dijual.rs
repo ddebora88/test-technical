@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rumah Dijual</name>
+   <tag></tag>
+   <elementGuidId>7025aeb6-cf24-4fc3-828a-62bf4d5099b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div/div[5]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.breadcrumbSEO > a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>64486124-053a-4631-802b-8ddf7bf2765e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.99.co/id/jual/rumah</value>
+      <webElementGuid>7bbab3c5-3fd8-4312-876b-8711119ca363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rumah Dijual</value>
+      <webElementGuid>e601ffc4-56f5-4356-8852-4e5c41221d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;ui-srp&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-main col-12 col-xl-9&quot;]/div[@class=&quot;breadcrumbSEO&quot;]/a[2]</value>
+      <webElementGuid>f50ced88-6870-4b00-8b37-81eaa3f228c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/div[5]/a[2]</value>
+      <webElementGuid>4e5537d6-323c-426b-8658-587311765e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Rumah Dijual')])[2]</value>
+      <webElementGuid>3a7d22ea-67ef-4ad3-8b71-cef68e643238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.99.co/id/jual/rumah')])[2]</value>
+      <webElementGuid>a0d2fdb2-9e9f-41b1-ae3c-1aa7d906384f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a[2]</value>
+      <webElementGuid>c2f2d3be-ab28-4092-87c9-7511375d2825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.99.co/id/jual/rumah' and (text() = 'Rumah Dijual' or . = 'Rumah Dijual')]</value>
+      <webElementGuid>701e0699-d690-476c-bc38-73776d999bbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

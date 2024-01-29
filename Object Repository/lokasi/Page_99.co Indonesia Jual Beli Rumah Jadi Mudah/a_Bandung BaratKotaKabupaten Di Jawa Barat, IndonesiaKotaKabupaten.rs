@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bandung BaratKotaKabupaten Di Jawa Barat, IndonesiaKotaKabupaten</name>
+   <tag></tag>
+   <elementGuidId>733cd9d5-4f05-4669-ae50-0275c0d2e871</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;&lt;strong>Bandung&lt;/strong> Barat&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/form/div[2]/div[2]/div[2]/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b2455fb-bce1-4bc4-9e44-5db57f46d9e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.99.co/id/jual/rumah/bandung-barat</value>
+      <webElementGuid>86d894f1-8eee-4b61-b106-1fa622959bae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>&lt;strong>Bandung&lt;/strong> Barat</value>
+      <webElementGuid>08a37c9c-6096-46cd-9051-659c172f4555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bandung BaratKota/Kabupaten Di Jawa Barat, IndonesiaKota/Kabupaten</value>
+      <webElementGuid>2086b3dd-7e78-4dd5-8691-f5d870d9e615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;homePage&quot;]/section[@class=&quot;banner&quot;]/form[@class=&quot;searchBarHome&quot;]/div[@class=&quot;searchBarHome--main&quot;]/div[@class=&quot;searchBarHome--main__col&quot;]/div[@class=&quot;ui-molecules-search-bar&quot;]/div[@class=&quot;ui-molecules-search-bar__suggestions&quot;]/div[@class=&quot;ui-molecules-search-bar__suggestions-wrapper&quot;]/a[2]</value>
+      <webElementGuid>88b8b8c5-b6d5-4ea4-815a-e1afaecad410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/form/div[2]/div[2]/div[2]/div[2]/div/a[2]</value>
+      <webElementGuid>1208799d-11d4-4843-b2c8-33a1e2e9b039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.99.co/id/jual/rumah/bandung-barat')]</value>
+      <webElementGuid>c4e87ea8-1b0f-4def-ab4b-8fbdab40aca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/a[2]</value>
+      <webElementGuid>028ac680-9d4f-4bda-b62e-5d712838f917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.99.co/id/jual/rumah/bandung-barat' and @title = '&lt;strong>Bandung&lt;/strong> Barat' and (text() = 'Bandung BaratKota/Kabupaten Di Jawa Barat, IndonesiaKota/Kabupaten' or . = 'Bandung BaratKota/Kabupaten Di Jawa Barat, IndonesiaKota/Kabupaten')]</value>
+      <webElementGuid>6311e488-3b61-4072-8198-e02ffbfa3482</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
