@@ -74,28 +74,5 @@ for (int i = 0; i < keywordLokasi.length; i++) {
 }
 
 WebUI.closeBrowser()
-
-//List<WebElement> listLokasi= driver.findtes(By.xpath("//*[@id='__next']/main/section[1]/form/div[2]/div[2]/div[2]/div[2]/div/div[2]/div/a"))
- //println(listLokasi.size())
-//List<WebElement> listLokasi= driver.findElements(By.xpath("//*[@id='__next']/main/section[1]/form/div[2]/div[2]/div[2]/div[2]/div/div[2]/div"))
-
-/*
-// Assume 'wrapperElement' is the TestObject representing your wrapper element
-TestObject wrapperElement = findTestObject('Object Repository/Search/Page_99.co Indonesia Jual Beli Rumah Jadi Mudah/Wrapperselector')
-
-// Find all anchor elements within the wrapper
-List<TestObject> anchorElements = driver.findtest
-
-// Iterate through the list of anchor elements
-for (TestObject anchorElement : anchorElements) {
-    // Get the href attribute value from each anchor element
-    String hrefValue = WebUI.getAttribute(anchorElement, 'href')
-    
-    // Print or use the href value as needed
-    println("Href Value: $hrefValue")
-}*/
-//verify panjang dari list rekomendasi
-//WebUI.verifyEqual(listLokasi.size(), 10)
-//println('list lokasi : '+listLokasi[1].getText())
 	
 	
